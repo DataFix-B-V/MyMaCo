@@ -1,4 +1,12 @@
-# <img src="docs/images/logo.svg" alt="MyMaCo" width="60" style="vertical-align: middle;" /> MyMaCo
+<p align="center">
+  <img src="docs/images/logo.svg" alt="MyMaCo Logo" width="180" />
+</p>
+
+<h1 align="center">MyMaCo</h1>
+
+<p align="center">
+  <strong>Multi-Instance Management & Analytics for n8n</strong>
+</p>
 
 > **⚠️ ALPHA RELEASE WARNING:**
 > MyMaCo is currently in **ALPHA**. This means the software is in development. Features might break, change unexpectedly, or behave unpredictably**. Please use it with caution and do not rely on it for critical operations without adequate backups.

@@ -1,5 +1,6 @@
 > **⚠️ ALPHA RELEASE WARNING:**
 > MyMaCo is currently in **ALPHA**. This means the software is in development. Features might break, change unexpectedly, or behave unpredictably**. Please use it with caution and do not rely on it for critical operations without adequate backups.
+
 > At this moment MyMaCo only reads from your n8n instance database, when this changes we will change the Docker tag and make proper announcements to make sure you are aware of the changes before applying.
 
 # What is MyMaCo?

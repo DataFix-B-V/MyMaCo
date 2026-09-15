@@ -29,6 +29,9 @@ Through this direct database connection, the SYNC process securely and efficient
 MyMaCo automates data collection to provide deep, actionable insights into your environments. Below is a breakdown of the core views and capabilities available:
 
 ### 📁 Instance & Folder Overview
+<p align="center">
+  <img src="docs/images/workflowoverview.png" alt="MyMaCo Instance & Folder Overview" width="850" />
+</p>
 
 Get an at-a-glance understanding of everything happening inside a specific n8n instance.
 

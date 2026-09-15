@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 704 493">
+    <defs>
+        <!-- Cut the two center holes out of the entire mark, including the lines beneath them. -->
+        <mask id="node-holes" maskUnits="userSpaceOnUse" x="0" y="0" width="704" height="493">
+            <rect width="704" height="493" fill="white" />
+            <circle cx="342" cy="356" r="31" fill="black" />
+            <circle cx="552" cy="139" r="34.5" fill="black" />
+        </mask>
+    </defs>
+
+    <g mask="url(#node-holes)" fill="#FFFFFF">
+        <!-- Main left branch. The diagonal continues in one mathematically straight segment
+         through the exact center of the lower node. -->
+        <path d="M111 366
+        L111 209
+        C111 171 143 143 181 178
+        L342 356"
+              fill="none"
+              stroke="#FFFFFF"
+              stroke-width="82"
+              stroke-linecap="round"
+              stroke-linejoin="round" />
+
+        <!-- Main rising branch. One exact straight segment passes through both node centers. -->
+        <path d="M342 356 L552 139"
+              fill="none"
+              stroke="#FFFFFF"
+              stroke-width="82"
+              stroke-linecap="butt"
+              stroke-linejoin="miter" />
+
+        <!-- Exact circular nodes, placed over the straight branches. -->
+        <circle cx="342" cy="356" r="68" />
+        <circle cx="552" cy="139" r="71" />
+
+        <!-- Bar chart -->
+        <rect x="436" y="338" width="50" height="75" rx="25" />
+        <rect x="501" y="292" width="53" height="121" rx="26.5" />
+        <rect x="570" y="244" width="54" height="169" rx="27" />
+    </g>
+</svg>

@@ -30,7 +30,7 @@ MyMaCo automates data collection to provide deep, actionable insights into your 
 
 ### 📁 Instance & Folder Overview
 <p align="center">
-  <img src="docs/images/workflowoverview.png" alt="MyMaCo Instance & Folder Overview" width="850" />
+  <img src="docs/images/workflowoverview.png" alt="Workflow Overview" width="500" />
 </p>
 
 Get an at-a-glance understanding of everything happening inside a specific n8n instance.
@@ -44,6 +44,9 @@ Get an at-a-glance understanding of everything happening inside a specific n8n i
 * **Advanced Filtering:** Quickly filter your view to only show workflows that contain errors or utilize AI tokens.
 
 ### 🔍 Workflow Detail & Documentation
+<p align="center">
+  <img src="docs/images/WorkflowDetails.png" alt="Workflow Details" width="500" />
+</p>
 
 Deep dive into individual workflows for better documentation and troubleshooting.
 

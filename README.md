@@ -69,7 +69,7 @@ Maintain strict security and clean environments with the global credentials view
 
 ### ⚡ Executions Dashboard
 <p align="center">
-  <img src="docs/images/Executions.png" alt="Executions Overview" width="500" />
+  <img src="docs/images/executions.png" alt="Executions Overview" width="500" />
 </p>
 
 Monitor server activity and drill down into performance metrics.

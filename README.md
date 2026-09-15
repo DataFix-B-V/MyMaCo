@@ -57,6 +57,9 @@ Deep dive into individual workflows for better documentation and troubleshooting
 * **Quick-Access Tabs:** Utilize a dedicated tab to see all triggers and credentials tied to the flow in one simple overview.
 
 ### 🔐 Credentials Management
+<p align="center">
+  <img src="docs/images/Credentials.png" alt="Credentials Overview" width="500" />
+</p>
 
 Maintain strict security and clean environments with the global credentials view.
 
@@ -65,6 +68,9 @@ Maintain strict security and clean environments with the global credentials view
 * **Orphaned Credentials:** Easily identify unused credentials so you can safely revoke and remove them.
 
 ### ⚡ Executions Dashboard
+<p align="center">
+  <img src="docs/images/Executions.png" alt="Executions Overview" width="500" />
+</p>
 
 Monitor server activity and drill down into performance metrics.
 
@@ -79,7 +85,9 @@ Monitor server activity and drill down into performance metrics.
 * **Execution Stats:** Track total executions, failed executions, durations, and token counts.
 
 ### 🤖 AI Token & Cost Tracking
-
+<p align="center">
+  <img src="docs/images/AI.png" alt="AI Overview" width="500" />
+</p>
 For users leveraging n8n's advanced AI capabilities, MyMaCo provides a dedicated analytics view.
 
 * **Cost Breakdowns:** See exact cost distributions and track trends in cost and token consumption over time.

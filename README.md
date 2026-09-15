@@ -1,4 +1,4 @@
-# <img src="docs/images/logo.svg" alt="MyMaCo" width="36" style="vertical-align: middle;" /> MyMaCo
+# <img src="docs/images/logo.svg" alt="MyMaCo" width="60" style="vertical-align: middle;" /> MyMaCo
 
 > **⚠️ ALPHA RELEASE WARNING:**
 > MyMaCo is currently in **ALPHA**. This means the software is in development. Features might break, change unexpectedly, or behave unpredictably**. Please use it with caution and do not rely on it for critical operations without adequate backups.

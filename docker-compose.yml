@@ -32,6 +32,7 @@ services:
       MYMACO_DB_DATABASE: mymaco_db
       MYMACO_DB_USER: mymaco_user
       MYMACO_DB_PASSWORD: mymaco_password
+      MYMACO_ENCRYPTION_KEY: mymaco_encryptionkey
 
   # MyMaCo Sync Image
   mymaco-sync:
@@ -45,6 +46,7 @@ services:
       MYMACO_DB_DATABASE: mymaco_db
       MYMACO_DB_USER: mymaco_user
       MYMACO_DB_PASSWORD: mymaco_password
+      MYMACO_ENCRYPTION_KEY: mymaco_encryptionkey
       # Optional: Uncomment and set to sync a specific n8n environment
       # MYMACO_WORKER_ENV: "GUID"
 

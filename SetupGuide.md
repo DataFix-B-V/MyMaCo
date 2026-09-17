@@ -13,6 +13,7 @@ Before deploying any supplementary services, you must first set up the Main Imag
 *   `MYMACO_DB_DATABASE` - The name of your MyMaCo database.
 *   `MYMACO_DB_USER` - The username for database access.
 *   `MYMACO_DB_PASSWORD` - The password for the database user.
+*   `MYMACO_ENCRYPTION_KEY` - Encryption Key for storing passwords.
 
 ### Network & Port Configuration
 By default, the MyMaCo Main Image runs on port **8080**. When deploying for production, we strongly recommend using a reverse proxy (such as Nginx, Caddy, or Traefik) in front of the application to securely expose it over **HTTPS**.
@@ -38,6 +39,7 @@ The Sync Image needs to connect to the exact same PostgreSQL database as the mai
 *   `MYMACO_DB_DATABASE`
 *   `MYMACO_DB_USER`
 *   `MYMACO_DB_PASSWORD`
+*   `MYMACO_ENCRYPTION_KEY`
 
 ### Optional Environment Variables
 
